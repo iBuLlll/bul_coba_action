@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: bul/coba-action:latest
+          tags: shahibulwafa/coba-action:latest
